@@ -4,7 +4,7 @@ metallb installation
 
 following steps:
 
-  wget https://raw.githubusercontent.com/detachx/https-github.com-detachx-kubernetes-Install-Metallb-tree-main/main/Install_metallb.sh
+  wget https://raw.githubusercontent.com/detachx/kubernetes-Install-Metallb-tree-main/main/Install_metallb.sh
 
   chmod +x Install_metallb.sh
 

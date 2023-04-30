@@ -3,8 +3,12 @@
 metallb installation
 
 https://raw.githubusercontent.com/detachx/https-github.com-detachx-kubernetes-Install-Metallb-tree-main/main/Install_metallb.sh
+
 chmod +x Install_metallb.sh
+
 sh Install_metallb.sh
+
+
 
 
 Get the metallb.yaml and namespace.yaml files from MetalLB's gitlab repo, then install as follows:
